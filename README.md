@@ -1,1 +1,1 @@
-# itta
+# Sensor de color
